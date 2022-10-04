@@ -1,6 +1,6 @@
 # LoGoViT
 Official implementation of LoGoViT: Local-Global Vision Transformer for Object Re-identification.
-
+![image info](.framework.png)
 # Acknowledgement
 Code is based on 
 https://github.com/damo-cv/TransReID \
