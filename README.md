@@ -3,6 +3,10 @@ Official implementation of LoGoViT: Local-Global Vision Transformer for Object R
 
 ![image info](framework.png)
 
+![image info](tab_4.png)
+
+![image info](tab_5.png)
+
 # Acknowledgement
 Code is based on 
 https://github.com/damo-cv/TransReID \
